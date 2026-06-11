@@ -1,0 +1,14 @@
+C:\Users\julia\Documents\MyLABS\7 семестр\МИВС\lab3\Calendar\obj\Debug\Calendar.csproj.AssemblyReference.cache
+C:\Users\julia\Documents\MyLABS\7 семестр\МИВС\lab3\Calendar\obj\Debug\Calendar.Form1.resources
+C:\Users\julia\Documents\MyLABS\7 семестр\МИВС\lab3\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\julia\Documents\MyLABS\7 семестр\МИВС\lab3\Calendar\obj\Debug\Calendar.csproj.GenerateResource.cache
+C:\Users\julia\Documents\MyLABS\7 семестр\МИВС\lab3\Calendar\obj\Debug\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\MyLABS\7 семестр\МИВС\lab3\Calendar\bin\Debug\Calendar.exe.config
+C:\Users\julia\Documents\MyLABS\7 семестр\МИВС\lab3\Calendar\bin\Debug\Calendar.exe
+C:\Users\julia\Documents\MyLABS\7 семестр\МИВС\lab3\Calendar\bin\Debug\Calendar.pdb
+C:\Users\julia\Documents\MyLABS\7 семестр\МИВС\lab3\Calendar\obj\Debug\Calendar.exe
+C:\Users\julia\Documents\MyLABS\7 семестр\МИВС\lab3\Calendar\obj\Debug\Calendar.pdb
+C:\Users\julia\Documents\MyLABS\7 семестр\МИВС\lab3\Calendar\obj\Debug\Calendar.exe.config
+C:\Users\julia\Documents\MyLABS\7 семестр\МИВС\lab3\Calendar\obj\Debug\Calendar.TimerForm.resources
+C:\Users\julia\Documents\MyLABS\7 семестр\МИВС\lab3\Calendar\obj\Debug\Calendar.DigitizeForm.resources
+C:\Users\julia\Documents\MyLABS\7 семестр\МИВС\lab3\Calendar\obj\Debug\Calendar.GlobalForm.resources
